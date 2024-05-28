@@ -1,0 +1,31 @@
+    train: data_images/train
+val: data_images/test
+nc: 25
+names:
+  [
+    "accident",
+    "arm",
+    "back",
+    "bandage",
+    "bone",
+    "chest",
+    "cold",
+    "cough",
+    "doctor",
+    "feel",
+    "fever",
+    "headache",
+    "hurts",
+    "i",
+    "no",
+    "pain",
+    "short breath",
+    "sick",
+    "stomach",
+    "thank you",
+    "throat",
+    "tired",
+    "vomit",
+    "xray",
+    "yes",
+  ]

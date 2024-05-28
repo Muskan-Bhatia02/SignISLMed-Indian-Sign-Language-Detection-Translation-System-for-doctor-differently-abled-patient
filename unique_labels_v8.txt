@@ -1,0 +1,7 @@
+chest
+cough
+tired
+doctor
+back
+accident
+headache

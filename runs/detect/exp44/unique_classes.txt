@@ -1,0 +1,22 @@
+doctor
+sick
+pain
+feel
+bandage
+hurts
+thank you
+headache
+back
+accident
+arm
+fever
+yes
+tired
+no
+bone
+i
+stomach
+short breath
+cough
+vomit
+cold

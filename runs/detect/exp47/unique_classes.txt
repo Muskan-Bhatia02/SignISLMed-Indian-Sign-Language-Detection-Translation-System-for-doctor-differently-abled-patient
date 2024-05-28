@@ -1,0 +1,16 @@
+fever
+accident
+bandage
+cough
+vomit
+throat
+arm
+pain
+back
+chest
+cold
+short breath
+bone
+doctor
+xray
+sick

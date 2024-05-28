@@ -1,0 +1,8 @@
+arm
+feel
+fever
+cough
+pain
+sick
+accident
+back

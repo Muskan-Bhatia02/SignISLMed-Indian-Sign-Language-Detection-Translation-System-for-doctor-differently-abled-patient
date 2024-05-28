@@ -1,0 +1,7 @@
+short breath
+chest
+fever
+vomit
+cough
+pain
+accident

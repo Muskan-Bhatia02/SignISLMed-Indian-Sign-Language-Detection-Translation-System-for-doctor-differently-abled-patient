@@ -1,0 +1,10 @@
+bandage
+back
+arm
+fever
+short breath
+bone
+sick
+accident
+cough
+doctor

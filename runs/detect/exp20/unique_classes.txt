@@ -1,0 +1,6 @@
+arm
+back
+xray
+back
+vomit
+stomach
